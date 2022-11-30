@@ -1,5 +1,6 @@
 # Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
-## Aim : To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
+## Aim : 
+To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
 ## Components Required:
 
@@ -34,22 +35,27 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 
 Linear Interpolation
 
-
-
-
-
-
-
-
 Circular Interpolation
 
-### output
+## output
+### Linear interpolation 
+![1](ot1.jpeg)
 
+![2](ot2.jpeg)
 
+![3](ot3.jpeg)
 
+![4](ot4.jpeg)
 
-### Results 
+### Circular interpolation
+![1](ot7.jpeg)
 
+![1](ot5.jpeg)
 
+![1](ot6.jpeg)
+
+## Result 
+
+Thus,program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed
 
  
